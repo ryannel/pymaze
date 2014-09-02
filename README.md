@@ -9,4 +9,4 @@ This is a simple depth-first search maze generator and solver written in python 
 
 # Background
 
-I wrote this generator both as a means to investigate maze generation algorithms as well as to refresh my knowledge in python. As such this code base is still very rough but it has served as a valuable learning exercise.
+I wrote this generator both as a means to investigate maze generation algorithms as well as to refresh my knowledge of python. As such this code base is still very rough but it has served as a valuable learning exercise.
